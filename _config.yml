@@ -1,7 +1,7 @@
 name: Tool Filter
 favicon: null
-layout_spectrum: 0.027518206275999546
-typography_spectrum: 0.06673846393823624
+layout_spectrum: 0.25209
+typography_spectrum: 0.50584
 title: Comparative Search and Review Tool For Machinists
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.08969576214440167
   lightness: 0.15001529082655907
   saturation: 0.6897490008268505
-  rhythmicContrast: 0.10831136675551534
+  rhythmicContrast: 0.5
 purpose: []
