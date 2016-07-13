@@ -4,8 +4,15 @@
         <description><![CDATA[Tool Filter]]></description>
         <link>https://thegrid.ai/tool-filter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 00:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 00:32:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tool-filter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Taps</p>]]></description>
+            <link>https://thegrid.ai/tool-filter/taps/index.html</link>
+            <guid isPermaLink="false">f948cff0-0864-496b-b350-ca0587721696</guid>
+            <pubDate>Wed, 13 Jul 2016 00:32:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>End Mill</p>]]></description>
